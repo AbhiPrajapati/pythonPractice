@@ -1,0 +1,3 @@
+myfile = open("/home/abhishek/Desktop/pythonPractice/fileInPython/newfile.txt","w")
+myfile.write("Hello allHello allHello allHello allHello allHello all")
+myfile.close()
